@@ -16,6 +16,9 @@ module.exports = {
       colors: {
         background: '#161617',
         transperent: 'transparent',
+        github_purple: '#6e5494',
+        text: '#ccc',
+        background_brighter: '#1b1b1e'
       },
     },
     

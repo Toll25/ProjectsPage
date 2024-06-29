@@ -1,0 +1,1 @@
+Transition back to 0deg after leave
